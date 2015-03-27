@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="32" height="16" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="002" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="002.png" width="640" height="400"/>
+ </tileset>
+ <tileset firstgid="199" name="001" tilewidth="32" tileheight="32">
+  <image source="001.png" width="1025" height="713"/>
+  <tile id="416">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+  <tile id="417">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+  <tile id="418">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+  <tile id="419">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+  <tile id="420">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+  <tile id="421">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+  <tile id="422">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+  <tile id="423">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+  <tile id="456">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+  <tile id="457">
+   <properties>
+    <property name="isCanTouch" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="fillLayer" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC72UuU7DQBCG134ERJ8GCVqS4DoNJHVAAmqggJLzERI7gSKJxNlDARRJeo5n4B1oOBqOBhCf5V1pWdnGB2KkT7tezey/MztrR/y/HcOJnNdgUhJmu7CXQ8uMX4UruJbzpDZljH9lniXEOExY2eLj6jMNM1A11j/gE76kfhXqIvoOfHuAR3iC5wifkvE9DwuwGOHv+Oe3Y0RzWgHWoKyt6fWqSf0G+TfBtYJ6tKBt3EdUnf2cO/h2oZfyDlX+Pqb+vUjen338ByH6L/AKb/AeEqfyV+h1CLNChP46sRsw1OJc8EJ8l2AZVkSQv0ucBy24gMsM/dAhpgt36Bflmnrjpm3BNuyIIP+85vdWH+0BjCY8e1OOjrZ2A7cZz1BEtwRlqT/yi/+RCPpWz78ignpVMujX0Z2FOak/lmGPyL0T+Kj+25T6el3Nd7uPzwEcShr+27N/9mHbjv8vmXuq/uvJmDR9dUrMmaF1nvItqP4bZtD/BoEdRXEACAAA
+  </data>
+ </layer>
+ <layer name="touchLayer" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+XSTw7BQBTH8akNF+AWFY7jBP1vi0uU4Bg0sXYF2k2xwVl8m0wTi0o08qZN/JJPZtO892ZelfrvdC2lPPjoWfL97njgqc9vc8IZKTKBuZqMw7u7b3sIENbYxZpvN9ga2F+d5LjgiptA/QP37XcECpMdtfdIWvKmNnMcMWzJPJ9S7KM0ENpNmRH1xz/0mAjPV5UZPedY6NOBCw8+AoSIMK2Yzzb4D8T0X2qrBt7KRF5pUaGeAAgAAA==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="32" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="002" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="002.png" width="640" height="400"/>
+ </tileset>
+ <layer name="fillLayer" width="32" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBQMd7AWiNfh4dMCyAOxAhArAvF+ID6AJIfOH+qAHuGJD9ArPEf9SR8w6s9RQA8AAD8khl4ACgAA
+  </data>
+ </layer>
+ <layer name="touchLayer" width="32" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBSMguEDGEnAo4ByMJLCdKT4ddSfIwMAAA88BaEACgAA
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,7 @@
+module("config", package.seeall)
+
+local t_entity = {
+	{code=1001, name="≤‚ ‘÷˜Ω«", type=1, velocity={1,0}, model=""}
+}
+
+return t_entity

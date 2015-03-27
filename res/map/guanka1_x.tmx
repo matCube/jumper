@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="32" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="002" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="002.png" width="640" height="400"/>
+ </tileset>
+ <tileset firstgid="199" name="001" tilewidth="32" tileheight="32">
+  <image source="001.png" width="1025" height="713"/>
+ </tileset>
+ <layer name="块层 1" width="32" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3NyzICUACA4R4jFbGVQrboorblWttQaKuLaNtF4Z19L3Fmmub8M9/6TyRisc0syQ4p0mTYZY8s+xwE/B+S44g8BY454ZQiZwH/51xwSYkyFapcUaMe8N+gyTU33HLHPQ+0aAf8d3jkiWe69HjhlTf6Af/vDBgyYswHEz75YhrwP2POgiXfrFjzwy9/Af+xWGy7+wfDN/GJAAoAAA==
+  </data>
+ </layer>
+ <layer name="块层 2" width="32" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3NxVGDUQCF0T8VYEGbgODQBE5CmghuTeDaBK5N4NoEritOEXkLZt6dOdv7JUlcXFxcXDFWkkqSUsoop4I0lVRRTQ211KWK36/32UCGRppopoVW2ming84A/S6f3fTQSx/9DDBIlhxD5AP0Cz6HGWGUMcaZYJIppplhNkB/zuc8CyyyxDIrrLLGOhtsBuhv+dxmh1322OeAQ4445oTTAP0zn+dccMkV19xwyx33PPAYoP/k85kXXnnjnQ8++eKbH34D9P/b/gDvcDV8AAoAAA==
+  </data>
+ </layer>
+</map>
